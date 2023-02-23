@@ -1,1 +1,4 @@
-# Haptic-Research
+# Welcome
+
+## Haptic Research Team
+
