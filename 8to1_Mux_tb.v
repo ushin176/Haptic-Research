@@ -1,5 +1,5 @@
+// Source: https://technobyte.org/verilog-multiplexer-8x1/
 `include "8to1_Mux.v"
-
 `timescale 1ns/1ps
 
 module top; 
